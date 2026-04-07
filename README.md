@@ -20,18 +20,37 @@ Paris, FR
 ![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=E07B00)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-0d1117?style=for-the-badge&logo=ruby-on-rails&logoColor=E07B00)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F0A500)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=F0A500)
 
 <br>
 
-· my current (public) project switchpay
+· projects
 
-> Payment orchestration sandbox built to understand what actually happens under the hood in modern payment infrastructure.
+> **switchpay** -> payment orchestration sandbox built to understand what actually happens under the hood in modern payment infrastructure.
 
-[![Switchpay Frontend](https://img.shields.io/badge/Frontend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-frontendd)
-[![Switchpay Backend](https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-backendd)
+[![Frontend](https://img.shields.io/badge/Frontend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-frontend)
+[![Backend](https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-backend)
+
+<br>
+
+> **flexipay** -> pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments, no friction.
+
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/flexipay)
+
+<br>
+
+> **filmy** -> AI chatbot that recommends films based on what you actually feel like watching.
+
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/Filmy)
+
+<br>
+
+> **gamebrief** -> stay up to date on the latest news from your favorite games, in one place.
+
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/edhoblyn/GameBrief)
 
 <br>
 
 ---
 
-<sub>built in public · open to collabs </sub>
+<sub>build in public · open to collabs</sub>
