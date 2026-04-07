@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:2a1f0a,100:0d1117&amp;height=180&amp;section=header&amp;text=Baptiste%20Sardou&amp;fontSize=48&amp;fontColor=F0A500&amp;animation=fadeIn&amp;fontAlignY=55&amp;desc=FinTech%20PM%20%7C%20Payments%20%26%20APIs%20%7C%20Technical%20Builder&amp;descSize=18&amp;descAlignY=78&amp;descColor=8b949e" />
-</p>
+# Baptiste Sardou
+**FinTech PM · Payments & APIs · Technical Builder**
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=3500&amp;pause=1200&amp;color=F0A500&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+end-to-end+payment+prototypes;Payment+Orchestration+%7C+Routing+%7C+APIs;Between+PM+vision+and+technical+execution;Discovery+%E2%86%92+MVP+%E2%86%92+Roadmap+%E2%86%92+GTM" alt="Typing SVG" />
-  </a>
-</p>
+---
 
 ```
 $ whoami
@@ -21,18 +16,22 @@ Dublin, IE
 
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&amp;logo=python&amp;logoColor=F0A500" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=F0A500" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F0A500" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&amp;logo=html5&amp;logoColor=E07B00" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&amp;logo=css3&amp;logoColor=E07B00" />
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-0d1117?style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=E07B00" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&amp;logo=figma&amp;logoColor=F0A500" />
-  <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&amp;logo=powerbi&amp;logoColor=F0A500" />
-  <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&amp;logo=cursor&amp;logoColor=E07B00" />
-  <img src="https://img.shields.io/badge/Lovable-0d1117?style=for-the-badge&amp;logo=heart&amp;logoColor=E07B00" />
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=F0A500)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F0A500)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F0A500)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E07B00)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=E07B00)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-0d1117?style=for-the-badge&logo=ruby-on-rails&logoColor=E07B00)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F0A500)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F0A500)
+![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=E07B00)
+![Lovable](https://img.shields.io/badge/Lovable-0d1117?style=for-the-badge&logo=heart&logoColor=E07B00)
+
+---
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptistesrd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F0A500&text_color=8b949e&langs_count=6)
 
 ---
 
@@ -46,25 +45,11 @@ Dublin, IE
 | **Lifecycle** | Discovery → MVP → Roadmap → GTM |
 | **Stack** | Ruby on Rails · JavaScript · SQL |
 
-<p>
-  <a href="https://github.com/Baptistesrd/switchpay-frontendd">
-    <img src="https://img.shields.io/badge/Frontend%20Repo-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=F0A500" />
-  </a>
-  <a href="https://github.com/Baptistesrd/switchpay-backendd">
-    <img src="https://img.shields.io/badge/Backend%20Repo-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=F0A500" />
-  </a>
-</p>
+[![Frontend Repo](https://img.shields.io/badge/Frontend%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-frontendd)
+[![Backend Repo](https://img.shields.io/badge/Backend%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-backendd)
 
 ---
 
 ## Contact
 
-<p>
-  <a href="mailto:baptiste.sardou@edhec.com">
-    <img src="https://img.shields.io/badge/baptiste.sardou@edhec.com-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:2a1f0a,100:0d1117&amp;height=100&amp;section=footer" />
-</p>
+[![Email](https://img.shields.io/badge/baptiste.sardou@edhec.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:baptiste.sardou@edhec.com)
