@@ -39,13 +39,13 @@ Paris, FR
 
 <br>
 
-> **filmy** -> AI chatbot that recommends films based on what you actually feel like watching.
+> **filmy** -> AI bot that tailor films based on the films you've watched, your watchlist and your mood.
 
 [![filmy](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/Filmy)
 
 <br>
 
-> **gamebrief** -> stay up to date on the latest news from your favorite games, in one place.
+> **gamebrief** -> stay up to date on the latest news from your favorite games, in one place. go to gamebrief.live
 
 [![gamebrief](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/edhoblyn/GameBrief)
 
