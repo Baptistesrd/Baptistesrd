@@ -1,12 +1,7 @@
 # Baptiste Sardou
 
 ```
-$ whoami
-Baptiste Sardou ->> FinTech PM building payment infra
-$ current --focus
-Payment orchestration
-$ location
-Paris, FR
+$ baptiste_sardou_portfolio
 ```
 
 <br>
