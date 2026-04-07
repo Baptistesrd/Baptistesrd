@@ -23,12 +23,12 @@ Paris, FR
 
 <br>
 
-· switchpay
+· my current (public) project switchpay
 
 > Payment orchestration sandbox built to understand what actually happens under the hood in modern payment infrastructure.
 
-[![Frontend](https://img.shields.io/badge/Frontend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-frontendd)
-[![Backend](https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-backendd)
+[![Switchpay Frontend](https://img.shields.io/badge/Frontend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-frontendd)
+[![Switchpay Backend](https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-backendd)
 
 <br>
 
