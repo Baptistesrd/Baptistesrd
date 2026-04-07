@@ -39,7 +39,7 @@ Paris, FR
 
 <br>
 
-> **filmy** -> AI bot that tailor films based on the films you've watched, your watchlist and your mood.
+> **filmy** -> AI bot that tailors films based on the movies you've watched, your watchlist and your mood.
 
 [![filmy](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/Filmy)
 
