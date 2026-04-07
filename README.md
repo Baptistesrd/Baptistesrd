@@ -35,19 +35,19 @@ Paris, FR
 
 > **flexipay** -> pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments, no friction.
 
-[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/flexipay)
+[![flexipay](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/flexipay)
 
 <br>
 
 > **filmy** -> AI chatbot that recommends films based on what you actually feel like watching.
 
-[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/Filmy)
+[![filmy](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/Filmy)
 
 <br>
 
 > **gamebrief** -> stay up to date on the latest news from your favorite games, in one place.
 
-[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/edhoblyn/GameBrief)
+[![gamebrief](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/edhoblyn/GameBrief)
 
 <br>
 
