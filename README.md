@@ -4,18 +4,18 @@ $ baptiste_sardou_portfolio
 
 · projects
 
-> **[switchpayglobal.com](https://switchpayglobal.com)** — payment orchestration sandbox. routes merchant transactions to the **most cost-efficient PSP** across stripe, adyen, airwallex, rapyd & wise.
+> **[switchpayglobal.com](https://switchpayglobal.com)** : payment orchestration sandbox. routes merchant transactions to the **most cost-efficient PSP** across stripe, adyen, airwallex, rapyd & wise.
 [![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://switchpayglobal.com)
 [![frontend](https://img.shields.io/badge/frontend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/switchpay-frontend)
 [![backend](https://img.shields.io/badge/backend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/switchpay-backend)
 
-> **flexipay** — pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments — zero friction, zero setup headaches.
+> **flexipay** : pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments — zero friction, zero setup headaches.
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/flexipay)
 
-> **filmy** — AI bot that tailors film picks to your watch history, watchlist & mood. not just genre tags.
+> **filmy** : AI bot that tailors film picks to your watch history, watchlist & mood. not just genre tags.
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/Filmy)
 
-> **[gamebrief](https://gamebrief.live)** — your favorite games, all the latest news, one place. no more tab hopping.
+> **[gamebrief](https://gamebrief.live)** : your favorite games, all the latest news, one place. no more tab hopping.
 [![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://gamebrief.live)
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/edhoblyn/GameBrief)
 
