@@ -26,7 +26,7 @@ AI bot that tailors film picks to your watch history, watchlist & mood. not just
 · If you like video games
 
 > **[gamebrief](https://gamebrief.live)** 
-your favorite games, all the latest news, one place. no more tab hopping.
+tracks your favorite games, all the latest news, in one place. MVC architecture with an integrated chatbot. 
 
 [![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://gamebrief.live)
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/edhoblyn/GameBrief)
