@@ -2,7 +2,7 @@
 $ baptiste_sardou_portfolio
 ```
 
-· My projects
+· My main projects
 
 > **[switchpayglobal.com](https://switchpayglobal.com)** 
 payment orchestration sandbox. routes merchant transactions to the **most cost-efficient PSP** across stripe, adyen, airwallex, rapyd & wise.
@@ -13,14 +13,21 @@ payment orchestration sandbox. routes merchant transactions to the **most cost-e
 
 > **flexipay**
 pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments
+
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/flexipay)
+
+· If you like cinema
 
 > **filmy** 
 AI bot that tailors film picks to your watch history, watchlist & mood. not just genre tags.
+
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/Filmy)
+
+· If you like video games
 
 > **[gamebrief](https://gamebrief.live)** 
 your favorite games, all the latest news, one place. no more tab hopping.
+
 [![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://gamebrief.live)
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/edhoblyn/GameBrief)
 
