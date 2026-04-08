@@ -1,5 +1,6 @@
+· Copy-paste in your terminal!!
 ```
-$ baptiste_sardou_portfolio
+npx baptiste_sardou_portfolio
 ```
 
 · My main projects
