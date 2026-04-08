@@ -19,7 +19,7 @@ pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two install
 · If you like cinema
 
 > **filmy** 
-AI bot that tailors film picks to your watch history, watchlist & mood. not just genre tags.
+an AI bot that tailors film picks to your watch history, watchlist, mood & friends preferences.
 
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/Filmy)
 
