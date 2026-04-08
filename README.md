@@ -4,31 +4,20 @@ $ baptiste_sardou_portfolio
 
 · projects
 
-> **switchpayglobal.com** -> payment orchestration sandbox that routes the merchant's transactions based on the most cost-efficient payment service provider between stripe, adyen, airwallex, rapyd, wise.
-[![Live website](https://switchpayglobal.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-frontend)
-[![Backend](https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/switchpay-backend)
+> **[switchpayglobal.com](https://switchpayglobal.com)** — payment orchestration sandbox. routes merchant transactions to the **most cost-efficient PSP** across stripe, adyen, airwallex, rapyd & wise.
+[![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://switchpayglobal.com)
+[![frontend](https://img.shields.io/badge/frontend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/switchpay-frontend)
+[![backend](https://img.shields.io/badge/backend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/switchpay-backend)
 
-<br>
+> **flexipay** — pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments — zero friction, zero setup headaches.
+[![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/flexipay)
 
-> **flexipay** -> pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments, no friction.
+> **filmy** — AI bot that tailors film picks to your watch history, watchlist & mood. not just genre tags.
+[![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/Filmy)
 
-[![flexipay](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/flexipay)
-
-<br>
-
-> **filmy** -> AI bot that tailors films based on the movies you've watched, your watchlist and your mood.
-
-[![filmy](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/Baptistesrd/Filmy)
-
-<br>
-
-> **gamebrief** -> stay up to date on the latest news from your favorite games, in one place. go to gamebrief.live
-
-[![gamebrief](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=F0A500)](https://github.com/edhoblyn/GameBrief)
-
-<br>
+> **[gamebrief](https://gamebrief.live)** — your favorite games, all the latest news, one place. no more tab hopping.
+[![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://gamebrief.live)
+[![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/edhoblyn/GameBrief)
 
 ---
-
 <sub>build in public · open to collabs</sub>
