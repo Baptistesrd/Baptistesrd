@@ -1,5 +1,3 @@
-# Baptiste Sardou
-
 ```
 $ baptiste_sardou_portfolio
 ```
