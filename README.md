@@ -1,4 +1,4 @@
-· Copy-paste in your terminal!!
+· Copy-paste in your terminal!
 ```
 npx baptiste_sardou_portfolio
 ```
