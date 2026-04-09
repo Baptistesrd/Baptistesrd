@@ -21,7 +21,7 @@ pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two install
 
 > **[filmy.heroku](https://ai-assistant-edhoblyn-f032fb9f086d.herokuapp.com/)** 
 is an AI bot that tailors film picks to your watch history, watchlist, mood & friends preferences.
-you will have to create an account first and everything else will be set up
+you will have to create an account first, everything else is already be set up & deployed. 
 
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/Filmy)
 
