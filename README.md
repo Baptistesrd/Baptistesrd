@@ -16,22 +16,4 @@ is a payment orchestration sandbox that routes merchant transactions to the **mo
 pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments
 
 [![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/flexipay)
-
-· If you like cinema
-
-> **[filmy.heroku](https://ai-assistant-edhoblyn-f032fb9f086d.herokuapp.com/)** 
-is an AI bot that tailors film picks to your watch history, watchlist, mood & friends preferences.
-you will have to create an account first, everything else is already be set up & deployed. 
-
-[![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/Filmy)
-
-· If you like video games
-
-> **[gamebrief.live](https://gamebrief.live)** 
-tracks your favorite games, all the latest news, in one place. MVC architecture with an integrated chatbot. 
-
-[![live](https://img.shields.io/badge/live-1D9E75?style=flat-square)](https://gamebrief.live)
-[![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/edhoblyn/GameBrief)
-
----
 <sub>build in public · open to collabs</sub>
