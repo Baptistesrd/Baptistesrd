@@ -9,5 +9,3 @@ is a payment orchestration sandbox that routes merchant transactions to the **mo
 
 > **flexipay**
 pluggable BNPL widget for marketplaces. drop-in buy-now-pay-later in two installments
-
-[![repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Baptistesrd/flexipay)
