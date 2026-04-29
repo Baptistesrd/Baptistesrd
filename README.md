@@ -1,4 +1,4 @@
-· Copy-paste in your terminal to see all my projects!
+· Copy-paste in your terminal to see all my projects
 ```
 npx baptiste_sardou_portfolio
 ```
